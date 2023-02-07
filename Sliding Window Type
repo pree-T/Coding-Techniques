@@ -1,0 +1,1 @@
+In such sliding window problems where you don't understand where the size of the window and the answer can lie in the middle of the array or the string then we can do a sliding window operation on the array or the string from both the ends one by one.
